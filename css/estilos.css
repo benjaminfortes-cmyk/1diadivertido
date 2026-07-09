@@ -469,6 +469,12 @@ footer .creditos a:hover{ opacity:.75; }
 .wsp-flotante:hover{ transform:scale(1.1); }
 .wsp-flotante svg{ width:30px; height:30px; fill:#fff; }
 
+/* Instagram */
+#instagram{ background:var(--blanco); }
+.ig-feed{ max-width:960px; margin:0 auto; }
+behold-widget{ display:block; width:100%; }
+.ig-cta{ text-align:center; margin-top:2.4rem; }
+
 :focus-visible{ outline:3px solid var(--rosa-int); outline-offset:3px; border-radius:6px; }
 
 @media (prefers-reduced-motion: reduce){
